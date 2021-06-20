@@ -2,7 +2,6 @@
 
 2nd year student and [_Astek_](https://www.epitech.eu/fr/actualites-evenements/lab-astek-art79/) at EPITECH Paris
 
-[![](.images/epitech-logo.png)](https://www.epitech.eu/) [![](.images/astek-logo.png)](https://www.epitech.eu/fr/actualites-evenements/lab-astek-art79/)
 ![antwxne's github stats](https://github-readme-stats.vercel.app/api?username=antwxne)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antwxne)
