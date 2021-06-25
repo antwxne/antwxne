@@ -38,6 +38,7 @@
 <details>
 <summary>Python projects</summary>
 
+[![Sudocul](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=sudocul&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/sudocul)
 
 </details>
 
