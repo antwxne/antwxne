@@ -1,6 +1,6 @@
 # Antoine [![Profile views](https://gpvc.arturio.dev/antwxne)](https://github.com/antwxne)
 
-2nd year student and [_Astek_](https://www.epitech.eu/fr/actualites-evenements/lab-astek-art79/) at EPITECH Paris
+3rd year student and [_Astek_](https://www.epitech.eu/fr/actualites-evenements/lab-astek-art79/) at EPITECH Paris
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=antwxne&theme=monokai&show_icons=true&border_radius=30&include_all_commits=true&count_private=true">
