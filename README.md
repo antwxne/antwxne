@@ -1,6 +1,10 @@
-# Antoine [![Profile views](https://gpvc.arturio.dev/antwxne)](https://github.com/antwxne)
+<h1><p align="center">Antoine</p> 
+<p align="center">
+    <a href="https://github.com/antwxne">
+        <img src="https://gpvc.arturio.dev/antwxne">
+    </a>
+</p>
 
-<h2><p align="center">Contact</p> </h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/antoine-desruet/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -10,7 +14,6 @@
     </a>
 </p>
 
-## Description
 3rd year student and [_Astek_](https://www.epitech.eu/fr/actualites-evenements/lab-astek-art79/) at EPITECH Paris
 
 <p align="center">
