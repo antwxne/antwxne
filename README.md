@@ -64,6 +64,7 @@
     </a>
 </p>
 <p align="center">
+<embed src="CV_Antoine_DESRUET.pdf" width="500" height="375" type="application/pdf">
     <a href="CV_Antoine_DESRUET_EN.pdf">
         English version   
     </a>
