@@ -64,7 +64,7 @@
     </a>
 </p>
 <p align="center">
-    <a href="CV_Antoine_DESRUET.pdf">
+    <a href="CV_Antoine_DESRUET_EN.pdf">
         English version   
     </a>
 </p>
