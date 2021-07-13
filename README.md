@@ -57,6 +57,18 @@
 
 </details>
 
+<h3><p align="center">Curriculum vitae</p></h3>
+<p align="center">
+    <a href="CV_Antoine_DESRUET.pdf">
+        French version   
+    </a>
+</p>
+<p align="center">
+    <a href="CV_Antoine_DESRUET.pdf">
+        English version   
+    </a>
+</p>
+
 
 <h3><p align="center">Competences</p></h3>
 <p align="center">
