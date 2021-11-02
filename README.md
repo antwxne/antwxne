@@ -62,6 +62,8 @@
 
 [![Workshops](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=Workshops&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/Workshops)
 
+[![Talks](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=Talks&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/Talks)
+
 </details>
 
 <h3><p align="center">Curriculum vitae</p></h3>
