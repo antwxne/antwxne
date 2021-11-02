@@ -57,15 +57,22 @@
 
 </details>
 
+<details>
+<summary>Subjects</summary>
+
+[![Workshops](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=Workshops&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/Workshops)
+
+</details>
+
 <h3><p align="center">Curriculum vitae</p></h3>
 <p align="center">
     <a href="CV_Antoine_DESRUET.pdf">
-        French version   
+        French version
     </a>
 </p>
 <p align="center">
     <a href="CV_Antoine_DESRUET_EN.pdf">
-        English version   
+        English version
     </a>
 </p>
 
@@ -76,7 +83,6 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white">    
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
@@ -105,6 +111,7 @@
     <img src="https://img.shields.io/badge/Github Action-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
     <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
