@@ -34,6 +34,7 @@
 [![Tetris](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=Tetris&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/Tetris)
 [![Malloc](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=Malloc&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/Malloc)
 [![MiniLibC](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=MiniLibC&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/MiniLibC)
+[![Objfucator](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=MiniLibC&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/0BFUSC4T0R)
 
 </details>
 <details>
