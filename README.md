@@ -50,6 +50,8 @@
 [![Wolfram](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=Wolfram&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/Wolfram)
 [![Sudocul](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=sudocul&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/sudocul)
 [![Objfucator](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=0BFUSC4T0R&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/0BFUSC4T0R)
+[![PLD_Generator](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=PLD_Generator&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/PLD_Generator)
+[![PLD_Generator](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=Epyrank&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/Epyrank)
 
 </details>
 
