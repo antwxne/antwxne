@@ -42,6 +42,8 @@
 
 [![Arcade](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=Arcade&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/Arcade)
 [![Indie Studio](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=IndieStudio&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/IndieStudio)
+[![R-Type](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=R-Type&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/R-Type)
+[![ZiFiak](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=ZiFiak&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/ZiFiak)
 
 </details>
 <details>
