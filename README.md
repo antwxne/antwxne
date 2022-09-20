@@ -4,7 +4,7 @@
     <a href="https://github.com/antwxne">
         <img src="https://gpvc.arturio.dev/antwxne">
     </a>
-</p> -->
+</p> -->friendly
 
 <p align="center">
     <a href="https://www.linkedin.com/in/antoine-desruet/">
@@ -16,7 +16,7 @@
 </p>
 
 ## Description
-3rd year student and [_Astek_](https://www.epitech.eu/fr/actualites-evenements/lab-astek-art79/) at EPITECH Paris
+4th year student and former [_Astek_](https://www.epitech.eu/fr/actualites-evenements/lab-astek-art79/) at EPITECH Paris
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=antwxne&theme=monokai&show_icons=true&border_radius=30&include_all_commits=true&count_private=true">
