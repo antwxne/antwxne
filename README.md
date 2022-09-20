@@ -4,7 +4,7 @@
     <a href="https://github.com/antwxne">
         <img src="https://gpvc.arturio.dev/antwxne">
     </a>
-</p> -->friendly
+</p> -->
 
 <p align="center">
     <a href="https://www.linkedin.com/in/antoine-desruet/">
