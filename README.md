@@ -15,56 +15,12 @@
     </a>
 </p>
 
-## Description
-5th year student at EPITECH Paris
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=antwxne&theme=monokai&show_icons=true&border_radius=30&include_all_commits=true&count_private=true">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antwxne&theme=monokai&show_icons=true&border_radius=30&langs_count=10&layout=compact">
 </p>
-
-## Projects
-
-<details>
-<summary>C projects</summary>
-
-[![RPG](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=RPG&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/RPG)
-[![Dante](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=Dante&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/Dante)
-[![Tetris](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=Tetris&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/Tetris)
-[![Malloc](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=Malloc&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/Malloc)
-[![MiniLibC](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=MiniLibC&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/MiniLibC)
-
-</details>
-<details>
-<summary>C++ projects</summary>
-
-[![Arcade](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=Arcade&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/Arcade)
-[![Indie Studio](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=IndieStudio&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/IndieStudio)
-[![R-Type](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=R-Type&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/R-Type)
-[![ZiFiak](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=ZiFiak&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/ZiFiak)
-
-</details>
-<details>
-<summary>Other projects</summary>
-
-[![Wolfram](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=Wolfram&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/Wolfram)
-[![Sudocul](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=sudocul&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/sudocul)
-[![Objfucator](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=0BFUSC4T0R&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/0BFUSC4T0R)
-[![PLD_Generator](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=PLD_Generator&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/PLD_Generator)
-[![Epyrank](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=Epyrank&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/Epyrank)
-[![CVAT Wrapper](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=CVAT_python_wrapper&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/CVAT_python_wrapper)
-
-</details>
-
-<details>
-<summary>Subjects</summary>
-
-[![Workshops](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=Workshops&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/Workshops)
-[![Talks](https://github-readme-stats.vercel.app/api/pin/?username=antwxne&repo=Talks&theme=monokai&show_icons=true&border_radius=30)](https://github.com/antwxne/Talks)
-
-</details>
 
 <h3><p align="center">Curriculum vitae</p></h3>
 <p align="center">
