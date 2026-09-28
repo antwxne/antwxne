@@ -14,14 +14,7 @@
     </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antwxne&theme=monokai&show_icons=true&border_radius=30&include_all_commits=true&count_private=true">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antwxne&theme=monokai&show_icons=true&border_radius=30&langs_count=10&layout=compact">
-</p>
-
-<h3><p align="center">Curriculum vitae</p></h3>
+<!-- <h3><p align="center">Curriculum vitae</p></h3>
 <p align="center">
     <a href="CV_Antoine_desruet_2024_FR.pdf">
         French version
@@ -31,7 +24,7 @@
     <a href="CV_Antoine_desruet_2024_EN.pdf">
         English version
     </a>
-</p>
+</p> -->
 
 <h3><p align="center">Skills</p></h3>
 <p align="center">
